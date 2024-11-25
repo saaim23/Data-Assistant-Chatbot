@@ -1,0 +1,10 @@
+streamlit
+polars
+plotly
+langchain
+langchain-experimental
+openai==0.28
+python-dotenv
+streamlit-chat
+sentence-transformers
+pinecone-client
